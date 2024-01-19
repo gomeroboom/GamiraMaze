@@ -77,7 +77,7 @@ w10 = Wall(0,0,0, 310,380, 50,10)
 w11= Wall(0,0,0, 550,20, 10,250)
 game = True
 finish = False
-FPS = 60
+FPS = 70
 clock = time.Clock()
 
 mixer.init()
